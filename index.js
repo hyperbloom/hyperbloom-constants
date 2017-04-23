@@ -10,4 +10,5 @@ exports.HASH_SIZE = 32;
 exports.HASH_KEY = Buffer.from('---hyperbloom---');
 exports.MAX_CHAIN_LENGTH = 5;
 
+exports.MAGIC = Buffer.from('d572c875', 'hex');
 exports.PORT = 4365;
