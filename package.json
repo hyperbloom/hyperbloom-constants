@@ -1,12 +1,16 @@
 {
   "name": "hyperbloom-constants",
   "version": "1.0.0",
-  "description": "",
+  "description": "Constants for HyperBloom protocol",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hyperbloom/hyperbloom-constants.git"
+  },
+  "keywords": [ "hyperbloom", "constants" ],
   "author": "Fedor Indutny <fedor@indutny.com> (http://darksi.de/)",
   "license": "MIT"
 }
